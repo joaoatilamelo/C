@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
   
-//Calcula qualquer fatorial
+//Calcula qualquer fatorial de 4 Byte
+// Para calcular fatoriais grandes, usar long int e modificar o código;
 // Joao Atila Melo
   
 int main ()
